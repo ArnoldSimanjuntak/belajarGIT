@@ -9,4 +9,11 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar Perintah GIT
-...
+git clone https://github.com/ArnoldSimanjuntak/belajarGIT.git
+cd belajarGIT
+git branch Tugas-git
+git checkout Tugas-git
+notepad "Tugas-git.txt"
+git add .
+git checkout main
+git push
